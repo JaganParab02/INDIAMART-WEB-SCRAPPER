@@ -43,7 +43,7 @@ def retry(max_attempts=3, delay=2):
                     time.sleep(delay)
         return wrapper
     return decorator
-
+ 
 # Function to sanitize data for CSV
 def sanitize_data(data):
     """Clean and sanitize data for CSV export"""

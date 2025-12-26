@@ -2,7 +2,7 @@
 import argparse
 import os
 import sys
-from indiamart_scraper import IndiaMartScraper
+from indiamart_scraper_new import IndiaMartScraper
 from utils import setup_logger
 
 def parse_arguments():

@@ -30,3 +30,7 @@ chromedriver.exe
 
 # Environment variables
 .env
+
+.indiamart_scraper.py
+logs/
+git/
