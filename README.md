@@ -198,3 +198,4 @@ Relevancy Score (%)
 * OTP must be entered manually
 * Excessive scraping may trigger IndiaMART anti-bot systems
 * Use **reasonable delays & limits**
+* Change the Extension of the run_cli.txt and run_scraper.txt to .bat*
